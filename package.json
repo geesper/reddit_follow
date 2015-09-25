@@ -1,0 +1,14 @@
+{
+  "name": "reddit_follow",
+  "version": "0.0.1",
+  "description": "A simple node application that subscribes to posts by a specific user.",
+  "main": "reddit_follow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+  "snoocore" : "latest"
+},
+  "author": "markwebbmn@gmail.com",
+  "license": "BSD-2-Clause"
+}
